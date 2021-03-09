@@ -1,4 +1,6 @@
-esta es mi historia sfdfsfd
+esta es mi historia
 
 estoy tratando de hacer cambios
 trato de entender como funcionan los cambios en el versionado
+ahora me estoy poniendo a hacer el tercer cambio para probar, borrando 
+algunas lineas iniciales y poniendo otras
