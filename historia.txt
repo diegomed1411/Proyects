@@ -1,3 +1,4 @@
 esta es mi historia sfdfsfd
 
 estoy tratando de hacer cambios
+trato de entender como funcionan los cambios en el versionado
